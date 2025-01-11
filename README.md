@@ -13,6 +13,8 @@ This project demonstrates the exploration and analysis of a real-world taxi serv
 4. Provide actionable insights for optimizing taxi operations.
 
 ---
+For detailed database schema, refer to [data_structure.md](data_structure.md).
+
 
 ## Dataset Overview
 The dataset is sourced from a real-world taxi service database. It includes the following components:
