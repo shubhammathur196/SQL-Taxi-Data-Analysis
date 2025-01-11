@@ -69,7 +69,6 @@ Key insights derived from the dataset include:
 3. Modify queries or dataset for additional insights.
 
 ---
-![Alt text](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/1b13ef4a-bdb0-45e0-914b-f46f74895552/Metrocar_car/w=1080,quality=90,fit=scale-down")
 
 ## Disclaimer
 This project uses a real-world dataset accessed via a live database connection. All data has been used responsibly and without violating any privacy or confidentiality agreements.
